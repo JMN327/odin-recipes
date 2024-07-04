@@ -4,9 +4,11 @@
     margin-top: 0px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 32px;
     padding-bottom: 4px;
     background-color:rgb(255, 247, 240);
     border: 3px solid  rgb(70, 170, 70);
+    border-radius: 25px;
 
     
 }
@@ -20,7 +22,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 3px solid  rgb(70, 170, 70);
+    border: 3px solid  rgb(60, 160, 60);
+    border-radius: 15px;
 }
 
 h1{
@@ -42,8 +45,8 @@ h2{
 }
 
 p{
-    color: rgb(224, 146, 37);
-    font-weight: 800;
+    color: rgb(50, 125, 50);
+    /* font-weight: 800; */
     padding: 8px 24px;
 }
 
