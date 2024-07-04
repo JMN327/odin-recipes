@@ -1,23 +1,64 @@
-body{
+.page-container{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 800px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 4px;
+    background-color:rgb(255, 247, 240);
+    border: 3px solid  rgb(70, 170, 70);
 
+    
+}
+
+.banner{
+    width: 800px;
+}
+
+.pics{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid  rgb(70, 170, 70);
 }
 
 h1{
     color: rgb(50, 150, 50);
     background-color: rgb(255, 235, 200);
+    padding: 8px;
+    text-align: center;
+    border-top: 3px solid  rgb(233, 204, 155);
+    border-bottom: 3px solid  rgb(233, 204, 155);
+    
 }
 
 h2{
     color: rgb(50, 150, 50);
     background-color: rgb(255, 235, 200);
+    padding: 6px 38px;
+    border-top: 3px solid  rgb(233, 204, 155);
+    border-bottom: 3px solid  rgb(233, 204, 155);
 }
 
 p{
-    color: rgb(206, 120, 0);
+    color: rgb(224, 146, 37);
     font-weight: 800;
+    padding: 8px 24px;
 }
 
 li{
     color: rgb(50, 125, 50);
+    padding-right: 16px;
 }
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu-item{
+    color: rgb(224, 146, 37);
+    padding-bottom: 8px;
+}
+
